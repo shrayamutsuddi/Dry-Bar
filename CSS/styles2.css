@@ -1,0 +1,63 @@
+body{
+  background-color: #f8d1c2;
+}
+.nav-1{
+  display: flex;
+  justify-content: space-between;
+}
+.nav-1 .link1{
+  margin: 10px;
+  color: black;
+  font-size: 25px;
+  font-family: 'Forum';
+}
+.nav-1 .h1{
+  color: #9C0F48;
+  font-size: 75px;
+  font-family: 'Forum';
+  font-weight: bolder;
+}
+.nav-1 .btn1{
+  margin: 10px;
+  background-color: black;
+  border-radius: 40px;
+  color: white;
+  height: 50px;
+  width: 12rem;
+}
+.heading2{
+  color: #9f2747;
+  font-size: 65px;
+  font-family: 'Forum';
+  font-weight: bold;
+  text-align: center;
+}
+#StyLists{
+  display: flex;
+  gap: 3rem;
+}
+.image{
+  height: 450px;
+  width: 350px;
+}
+.names{
+  font-family: 'Forum';
+  font-weight: bold;
+}
+.desg{
+  font-family: 'Forum';
+}
+.desc{
+  font-family: 'Forum';
+}
+.Team{
+  display: flex;
+  justify-content: space-around;
+}
+.link2{
+  font-size: 25px;
+  font-family: 'Forum';
+  position: relative;
+  left: 50rem;
+  color: #9f2747;
+}

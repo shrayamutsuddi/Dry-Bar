@@ -1,0 +1,32 @@
+body{
+  background-color: #FAEDCD;
+}
+h1{
+  color: #183A1D;
+  font-size: 60px;
+  font-family: 'Libre Baskerville', serif;
+  font-weight: bolder;
+  text-align: center;
+}
+h3{
+  color: #898121;
+  font-family: 'Libre Baskerville', serif;
+}
+li{
+  color: #183A1D;
+  font-size: 18px;
+  font-family: 'Libre Baskerville', serif;
+}
+button{
+  background-color: #9DC08B;
+  border-color: #EDF1D6;
+  border-radius: 40px;
+  color: #40513B;
+  font-family: 'Barlow';
+  font-weight: bold;
+  height: 50px;
+  margin: 10px;
+  width: 12rem;
+  position: absolute;
+  left: 37rem;
+}

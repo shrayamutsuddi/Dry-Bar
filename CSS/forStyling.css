@@ -1,0 +1,42 @@
+body{
+  background-color: #8D7B68;
+  font-family: 'Forum';
+}
+fieldset{
+  color: #F1DEC9;
+  margin: 10px;
+  border: solid 3px;
+  border-radius: 50px;
+  padding: 2rem;
+}
+legend{
+  font-size: 30px;
+  padding: 0px;
+  color: #F6E1C3;
+}
+label{
+  display: block;
+  margin-bottom: 18px;
+}
+input{
+  padding: 8px;
+  border: solid 2px;
+}
+input[type=radio]{
+  width: 17px;
+  height: 17px;
+}
+input[type=checkbox]{
+  width: 30px;
+  height: 30px;
+}
+input[type=submit]{
+  position: relative;
+  left: 40rem;
+  width: 70px;
+  height: 40px;
+  text-align: center;
+  border-radius: 6px;
+  background-color: black;
+  color: #F6E1C3;
+}
